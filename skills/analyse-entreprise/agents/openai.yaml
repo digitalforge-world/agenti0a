@@ -1,0 +1,4 @@
+interface:
+  display_name: "Analyse Entreprise"
+  short_description: "Rapport business et économique détaillé"
+  default_prompt: "Analyse une entreprise et génère un rapport business, économique et digital avec recommandations prioritaires et contacts publics."
